@@ -25,7 +25,7 @@ h2.research {
   color: #2B3856;
   text-align: center;
   padding: 0px;
-  margin: 40px 15em;
+  margin: 40px 25%;
 }
 
 h3 {
@@ -44,7 +44,7 @@ p {
   color: #2B3856;
   text-align: center;
   padding: 0px;
-  margin: 40px 22em; 
+  margin: 40px 25%; 
 }
 
 p.plain {
@@ -62,7 +62,7 @@ p.aboutme {
   color: #2B3856;
   text-align: center;
   padding: 0px;
-  margin: 40px 25em; 
+  margin: 40px 25%; 
 }
 
 p.pubs {
@@ -71,7 +71,7 @@ p.pubs {
   color: #2B3856;
   text-align: left;
   padding: 0px;
-  margin: 40px 20em; 
+  margin: 40px 25%; 
 }
 
 p.caption{
@@ -114,7 +114,7 @@ a:hover .research-center-1col h2, a:hover .research-center-1col p {
 /* Style space around heading text */
 .top_container {
 padding: 15px 50px;
-margin: 30px 25em;
+margin: 30px 25%;
 }
 
 
