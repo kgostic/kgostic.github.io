@@ -94,20 +94,22 @@ a:hover h1, a:hover, a:hover h2{
 }
 
 a:hover .research-center-2col {
-  background-color: #2B3856;
+  background-color: #bcc6cc;
 }
 
+
 a:hover .research-center-2col h2, a:hover .research-center-2col p {
-  color: white;
+  color: #2B3856;
 }
 
 a:hover .research-center-1col {
-  background-color: #2B3856;
+  background-color: #bcc6cc;
 }
 
+
 a:hover .research-center-1col h2, a:hover .research-center-1col p {
-  color: white;
-}
+  color: #2B3856;
+} 
 
 
 
