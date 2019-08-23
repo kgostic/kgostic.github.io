@@ -1,22 +1,22 @@
 /* Style heading text */
 h1 {
-  color: #2B3856;
-  font-size: 50px;  
-  font-family: "Courier New", Courier, monospace; 
-  text-align: center;
-  text-shadow: 1px 1px 4px #999999;
-  padding: 0px;
+  color: #303856;
+  font-size:28px;  
+  font-family: Verdana, Geneva, sans-serif;
+  text-align: left;
+  padding: 5px 1px;
   margin: 0px;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 18px;
   font-family: Verdana, Geneva, sans-serif;
   color: #2B3856;
-  text-align: center;
-  padding: 0px;
+  text-align: left;
+  padding: 1px 1px;
   margin: 0px;
+  font-weight: normal;
 }
 
 h2.research {
@@ -33,18 +33,18 @@ h3 {
   font-weight: bold;
   font-family: Verdana, Geneva, sans-serif;
   color: #2B3856;
-  text-align: center;
+  text-align: left;
   padding: 0px;
-  margin: 30px 0px;
+  margin: 30px 23vw 10px 20vw;
 }
 
 p {
-  font-size: 20px;
+  font-size: 16px;
   font-family: Verdana, Geneva, sans-serif;
   color: #2B3856;
-  text-align: center;
+  text-align: left;
   padding: 0px;
-  margin: 40px 22em; 
+  margin: 40px 23vw; 
 }
 
 p.plain {
@@ -53,7 +53,7 @@ p.plain {
   color: #2B3856;
   text-align: left;
   padding: 10px;
-  margin: 0px; 
+  margin: 0px 23vw; 
 }
 
 p.aboutme {
@@ -62,7 +62,7 @@ p.aboutme {
   color: #2B3856;
   text-align: center;
   padding: 0px;
-  margin: 40px 25em; 
+  margin: 40px 23vw; 
 }
 
 p.pubs {
@@ -71,7 +71,7 @@ p.pubs {
   color: #2B3856;
   text-align: left;
   padding: 0px;
-  margin: 40px 20em; 
+  margin: 20px 23vw; 
 }
 
 p.caption{
@@ -113,8 +113,8 @@ a:hover .research-center-1col h2, a:hover .research-center-1col p {
 
 /* Style space around heading text */
 .top_container {
-padding: 15px 50px;
-margin: 30px 25em;
+padding: 15px 0px;
+margin: 40px 23vw;
 }
 
 
